@@ -1,1 +1,21 @@
-
+/* Header */
+.header {
+    padding: 30px;
+    font-size: 40px;
+    text-align: center;
+    background: #696969;
+}
+/* Footer */
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #32CD32;
+    margin-top: 20px;
+}
+/* navigation bar*/
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #32CD32;
+}
